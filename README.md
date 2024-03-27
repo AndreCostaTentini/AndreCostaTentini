@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on JavaScript and web projects
 - 📫 How to reach me idk
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: my interest in computer science began when I
-- had to install linux in a weak computer
+- ⚡ Fun fact: my interest in computer science began when I had to install linux in a weak computer
 - 
 
 <!---
